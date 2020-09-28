@@ -4,6 +4,7 @@ The VoxR package was primarily developed to process Terrestrial Laser Scanning d
 
 ## Related paper
 More information about the space exploration concept can be found in:
+
 Lecigne, B., Delagrange, S., & Messier, C. (2018). Exploring trees in three dimensions: VoxR, a novel voxel-based R package dedicated to analysing the complex arrangement of tree crowns. Annals of botany, 121(4), 589-601.
 
 ## Other functionalities
