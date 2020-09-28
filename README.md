@@ -6,5 +6,5 @@ The VoxR package was primarily developed to process Terrestrial Laser Scanning d
 More information about the space exploration concept can be found in:
 Lecigne, B., Delagrange, S., & Messier, C. (2018). Exploring trees in three dimensions: VoxR, a novel voxel-based R package dedicated to analysing the complex arrangement of tree crowns. Annals of botany, 121(4), 589-601.
 
-## Other functionnalities
-The VoxR package also includes functions to measure simple morphological metrics (e.g. DBH, tree height, volume), measure the tree fractal dimmesion and improve TLS point clouds quality (noise filter, point density filter).
+## Other functionalities
+The VoxR package also includes functions to measure simple morphological metrics (e.g. DBH, tree height, volume), measure the tree fractal dimension and improve TLS point cloud quality (noise filter, point density filter).
