@@ -1,0 +1,25 @@
+Package: VoxR
+Title: 3D geometrical and morphological description of trees from unstructured data obtained from terrestrial laser scanner
+Version: 1.0.0
+Authors@R: 
+    person(given = "Bastien",
+           family = "Lecigne",
+           role = c("aut", "cre"),
+           email = "lecignebastien@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-1496-202X"))
+Description: VoxR offers tools for 3D point cloud voxelisation, projection, geometrical and morphological description of trees (DBH, height, volume, crown diameter), analyses of temporal changes between different measurement times, distance based clustering and visualisation of 3D voxel clouds and 2D projection.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    data.table,
+    FNN,
+    Rfast,
+    circular,
+    dplyr,
+    fastcluster,
+    geometry,
+    raster,
+    rgl,
+    grDevices
+RoxygenNote: 7.1.0
